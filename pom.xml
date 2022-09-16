@@ -76,7 +76,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+<!--	Приложение создано и принадлежит Киселевой Марии Александровне-->
 	<build>
 		<plugins>
 			<plugin>

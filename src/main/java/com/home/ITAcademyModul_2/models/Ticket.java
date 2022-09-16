@@ -36,7 +36,7 @@ public class Ticket {
         this.dateStart = dateStart;
         this.dateFin = dateFin;
     }
-
+    //Приложение создано и принадлежит Киселевой Марии Александровне
     public Long getId() {
         return id;
     }
