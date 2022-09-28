@@ -4,8 +4,8 @@ login: anton, password: 1234
 login: ivan, password: 12345
 
 Backend для работы с залоговыми билетами (например ломбарда)
-(технологии: Java, REST, Spring Security, Spring Boot, Spring Data (он же Spring JPA), JWT, SQL (MySQL)
-Есть функционал авторизации с помощью токена, добавления нового билета, редактирования, удаления, данные записываются в реляционную базу данных (MySQL).
+(технологии: Java, REST, Spring Security, Spring Boot, Spring Data (он же Spring JPA), JWT, SQL (PostgreSQL)
+Есть функционал авторизации с помощью токена, добавления нового билета, редактирования, удаления, данные записываются в реляционную базу данных (PostgreSQL).
 Приложение проверено на работоспособность с помощью Postman.
 
 Примеры JDBS для тестирования на Postman
